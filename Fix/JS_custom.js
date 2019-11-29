@@ -443,13 +443,13 @@
 
 
 		$.ajaxChimp.translations.cm = {
-			'submit': 'Suscribiendo...',
+			'submit': 'Accediendo...',
 			0: 'Te he enviado un email de confirmación',
-			1: 'Por favor, introduzca su email',
+			1: 'Por favor, introduce su email',
 			2: 'Un email debe contener un solo @',
-			3: 'La porción del dominio en el email no es válida (la parte después del @: )',
-			4: 'La parte del nombre de usuario en el email no es válida (la parte antes al @: )',
-			5: 'Este email parece falso o inválido. Por favor ingrese un email real'
+			3: 'El dominio del email no es válido (la parte después del @: )',
+			4: 'El nombre de usuario en el email no es válida (la parte antes al @: )',
+			5: 'Este email parece falso o inválido. Por favor ingresa un email valido'
 		};	
 
 
