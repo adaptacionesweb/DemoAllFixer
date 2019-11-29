@@ -443,9 +443,9 @@
 
 
 		$.ajaxChimp.translations.cm = {
-			'submit': 'Accediendo...',
+			'submit': 'Registrando...',
 			0: 'Te he enviado un email de confirmación',
-			1: 'Por favor, introduce su email',
+			1: 'Por favor, introduce tu email',
 			2: 'Un email debe contener un solo @',
 			3: 'El dominio del email no es válido (la parte después del @: )',
 			4: 'El nombre de usuario en el email no es válida (la parte antes al @: )',
